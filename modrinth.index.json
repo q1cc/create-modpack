@@ -149,14 +149,14 @@
         },
         {
             "downloads": [
-                "https://cdn.modrinth.com/data/Xbc0uyRg/versions/EkeMb3jA/create-fabric-0.5.0.i-1017%2B1.19.2.jar"
+		"https://cdn.modrinth.com/data/Xbc0uyRg/versions/q6x0xvc1/create-fabric-0.5.1-b-build.1079%2Bmc1.19.2.jar"
             ],
-            "fileSize": 18066675,
+            "fileSize": 19136513,
             "hashes": {
-                "sha1": "2f0d7931c93e957eaf4302085dbc8d40ca3a381e",
-                "sha512": "1912185fbb3150ec7fcc860c64144656c92f5b52c706387a1f0e27e6074051ae316f4463e25a692ad591ea7a3c28fc4ce3bca5bfc34411ad6e19df927da033f4"
+                "sha1": "7890f0abfdcbdaf98d076cce4fa8ff1ea18b8718",
+                "sha512": "15a1fbebf4f15e56ec7ec6ee4943f18bbaea540514c74830cc1ac0e8023bcf55c5e1df9a5fed024de9eff57984301be86cb5fb582d84b4194b731cc3f082b60a"
             },
-            "path": "mods/create-fabric-0.5.0.i-1017+1.19.2.jar"
+            "path": "mods/create-fabric-0.5.1-b-build.1079+mc1.19.2.jar"
         },
         {
             "downloads": [
@@ -619,11 +619,45 @@
                 "sha512": "038cf553989f30c323d6f9ed51d247741fec15e9842b5c1826073eaa15bdd6481d3dc560cc134a7bf728a753d0dc60e6d53e3117e6ea7ffd5ef80be5de5bd582"
             },
             "path": "shaderpacks/ComplementaryReimagined_r2.2.zip"
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/t1VgucWo/versions/nsY9eCFI/chunkloaders-1.2.3a-fabric-mc1.19.2.jar"
+            ],
+            "fileSize": 153336,
+            "path": "mods/chunkloaders-1.2.3a-fabric-mc1.19.2.jar",
+            "hashes": {
+                "sha1": "b7fcabc4e74bd06909b24a1030618cc41a703dfa",
+                "sha512": "9e0edfe03bb6bd1930f8204a8ee11d8060fe932a734cdf8f78629bdc610c50b051d90760087d761ebb11fd0ec9fa7fd783c6da1048d75114fda50b37a7457be2"
+            }
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/rOUBggPv/versions/4RFtxZ2V/supermartijn642corelib-1.1.10-fabric-mc1.19.2.jar"
+            ],
+            "fileSize": 533680,
+            "path": "mods/supermartijn642corelib-1.1.10-fabric-mc1.19.2.jar",
+            "hashes": {
+                "sha1": "e2f61221ffa08cb04c33b8f7e32a8c22ac6e1e00",
+                "sha512": "86e2587826e99879371efa94b0783ef0994a1e30a74b02f04ed2d61900629eebbb36ac8d1e662d674b5cc8dce9c6ca2b27dfaf737a0e62005abb08631ffdd0f4"
+            }
+        },
+        {
+            "downloads": [
+                "https://cdn.modrinth.com/data/LN9BxssP/versions/8bQVl73V/supermartijn642configlib-1.1.6-fabric-mc1.19.jar"
+            ],
+            "fileSize": 207404,
+            "path": "mods/supermartijn642configlib-1.1.6-fabric-mc1.19.jar",
+            "hashes": {
+                "sha1": "932a774fbc606e8257ca6390288811a74558af5f",
+                "sha512": ""
+            }
         }
+
     ],
     "formatVersion": 1,
     "game": "minecraft",
     "name": "q1cc Create Modpack",
     "summary": "A multiplayer \"factory building\" experience focused on Create",
-    "versionId": "0.3-1.19.2"
+    "versionId": "0.4-1.19.2"
 }
