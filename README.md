@@ -4,7 +4,7 @@ A multiplayer "factory building" experience focused on [Create](https://modrinth
 
 [Download on Modrinth!](https://modrinth.com/modpack/q1cc-create-modpack)
 
-# Details
+# Description
 
 This pack contains both client- and server-side mods - it is based on [Create Plus +](https://modrinth.com/modpack/create-plus-+) with some modifications.
 
@@ -12,6 +12,7 @@ Added:
 * [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined) Shader
 * [Carpet](https://modrinth.com/mod/carpet)
 * [Carry On](https://modrinth.com/mod/carry-on)
+* [Chunk Loaders](https://modrinth.com/mod/chunk-loaders)
 * [Croptopia](https://www.curseforge.com/minecraft/mc-mods/croptopia)
 * [Connectible Chains](https://modrinth.com/mod/connectible_chains)
 * [Controlling](https://modrinth.com/mod/controlling)

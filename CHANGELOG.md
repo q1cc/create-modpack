@@ -1,6 +1,11 @@
-== Changelog
+# Changelog
 
-=== Version 0.3
+## Version 0.4
+
+Added:
+* [Chunk Loaders](https://modrinth.com/mod/chunk-loaders)
+
+## Version 0.3
 
 First modrinth release!
 
