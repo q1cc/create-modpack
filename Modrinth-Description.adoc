@@ -1,0 +1,25 @@
+This pack contains both client- and server-side mods - it is based on https://modrinth.com/modpack/create-plus-+[Create Plus +] with some modifications.
+
+Added:
+
+* https://modrinth.com/shader/complementary-reimagined[Complementary Reimagined] Shader
+* https://modrinth.com/mod/carpet[Carpet]
+* https://modrinth.com/mod/carry-on[Carry On]
+* https://modrinth.com/mod/chunk-loaders[Chunk Loaders]
+* https://www.curseforge.com/minecraft/mc-mods/croptopia[Croptopia]
+* https://modrinth.com/mod/connectible_chains[Connectible Chains]
+* https://modrinth.com/mod/controlling[Controlling]
+* https://modrinth.com/mod/diagonal-fences[Diagonal Fences]
+* https://modrinth.com/mod/diagonal-panes[Diagonal Panes]
+* https://modrinth.com/mod/emi[EMI]
+* https://modrinth.com/mod/light-overlay[Light Overlay]
+* https://modrinth.com/plugin/tabtps[TabTPS]
+* https://modrinth.com/mod/travelersbackpack[Traveler's Backpack]
+* https://modrinth.com/datapack/vanilla-refresh[Vanilla Refresh]
+
+Removed:
+
+* Removed Roughly Enough Items (REI) (Replaced by EMI)
+* Complementary Shaders (replaced by Complementary Reimagined)
+* Removed Freecam (because it allows the cam to go OOB)
+* Removed Scout (Replaced by Traveler's Backpack)

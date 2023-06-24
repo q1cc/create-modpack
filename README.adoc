@@ -1,0 +1,99 @@
+= q1cc Create Modpack
+:experimental:
+:source-highlighter: rouge
+:source-language: shell
+:icons: font
+:toc: true
+:sectanchors:
+:star: *
+
+A multiplayer "factory building" experience focused on [Create](https://modrinth.com/mod/create).
+
+== Download
+
+https://modrinth.com/modpack/q1cc-create-modpack[Download on Modrinth!]
+
+https://prismlauncher.org/download/[We recommend using PrismLauncher to install and play the modpack.]
+
+== Description
+
+include::Modrinth-Description.adoc[]
+
+== Development
+
+=== Requirements
+
+* go 1.19+ (for packwiz)
+* packwiz
+* python 3.9+ (for pre-commit and build script)
+* pre-commit
+* asciidoc (for handling description and changelog files)
+* pandoc (for handling description and changelog files)
+
+Install them e.g. via:
+
+[source,console]
+----
+
+$ sudo apt install golang-go python3.9 python3-pip pandoc asciidoc
+$ pip3 install pre-commit
+$ go install github.com/packwiz/packwiz@latest
+
+----
+
+=== Basic build and release workflow
+
+Check out the repository if you haven't already.
+
+[source,console]
+----
+$ git clone git@github.com:q1cc/create-modpack.git
+$ cd create-modpack
+$ pre-commit install
+
+----
+
+Make changes to the modpack via packwiz (see https://packwiz.infra.link/tutorials/creating/getting-started/[packwiz documentation] for details):
+
+[source,console]
+----
+$ cd src/packwiz
+
+A few examples
+
+$ packwiz modrinth install create-fabric
+$ packwiz curseforge install Croptopia
+
+Refresh the packwiz index:
+$ packwiz refresh
+
+----
+
+The `CHANGELOG.adoc` and `Modrinth-Description.adoc` files have to be maintained manually at the moment.
+Don't forget to commit your changes!
+
+[source,console]
+----
+$ pre-commit run --all-files
+$ git add -A
+$ git commit -m "Release x.y.z"
+$ git push
+----
+
+=== Build & release
+
+[source,console]
+----
+Run the build script (currently written in python, because that's at least somewhat portable) to generate the modpack zip file & additional files.
+
+$ python3 -m buildscript.buildscript
+
+The results will be generated in the `target` directory:
+
+$ ls -la target/
+
+----
+
+You will now have to release the new version manually on Modrinth, use the `Description.md` file in the `target` directory to updated the Description please!
+
+include::CHANGELOG.adoc[]
