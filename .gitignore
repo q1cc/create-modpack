@@ -1,1 +1,6 @@
+# VS Code
+/.vscode/**
+!/.vscode/launch.json
+
+# Built modrinth modpacks
 *.mrpack
