@@ -1,4 +1,9 @@
 {
+    "formatVersion": 1,
+    "game": "minecraft",
+    "versionId": "0.5-1.19.2",
+    "name": "q1cc Create Modpack",
+    "summary": "A multiplayer \"factory building\" experience focused on Create",
     "dependencies": {
         "fabric-loader": "0.14.21",
         "minecraft": "1.19.2"
@@ -160,7 +165,7 @@
         },
         {
             "downloads": [
-		"https://cdn.modrinth.com/data/Xbc0uyRg/versions/q6x0xvc1/create-fabric-0.5.1-b-build.1079%2Bmc1.19.2.jar"
+                "https://cdn.modrinth.com/data/Xbc0uyRg/versions/q6x0xvc1/create-fabric-0.5.1-b-build.1079%2Bmc1.19.2.jar"
             ],
             "fileSize": 19136513,
             "hashes": {
@@ -688,9 +693,4 @@
         }
 
     ],
-    "formatVersion": 1,
-    "game": "minecraft",
-    "name": "q1cc Create Modpack",
-    "summary": "A multiplayer \"factory building\" experience focused on Create",
-    "versionId": "0.5-1.19.2"
 }

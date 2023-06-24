@@ -86,8 +86,18 @@ hash = "e9ca0f5ceeb8c3dc5117d3bc0d5fd5756eb2763e8ae148e8053396726cc06259"
 metafile = true
 
 [[files]]
+file = "mods/croptopia.pw.toml"
+hash = "3318c70374f860b9b2ab3699621a7ace4a199dd63f06d3b5c6892067ec5f269d"
+metafile = true
+
+[[files]]
 file = "mods/ctm-refabricated.pw.toml"
 hash = "033a78f711ea48ae5d425fc60e1f1776106e380de6f24e9376197b12eebba898"
+metafile = true
+
+[[files]]
+file = "mods/decorative-blocks.pw.toml"
+hash = "06118184bb0ec6bfd407aa120fa28fce9031ddedab3c710a315b161fa1d1a6b1"
 metafile = true
 
 [[files]]

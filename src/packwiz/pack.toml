@@ -1,13 +1,13 @@
 name = "q1cc Create Modpack"
 author = "xicesky"
-version = "0.5.0"
+version = "0.5-1.19.2"
 description = "A multiplayer \"factory building\" experience focused on Create"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "43329552f7763240c43cd407fdf505eb1611523676d08d70bbbea8c2ffa1ec01"
+hash = "5bc26eb7e01aabed2b7d588cb2f87315d17f669136b0ef14b6423ebdaf809454"
 
 [versions]
 fabric = "0.14.21"
