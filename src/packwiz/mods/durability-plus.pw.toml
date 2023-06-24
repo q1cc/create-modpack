@@ -1,0 +1,13 @@
+name = "Durability Plus"
+filename = "durabilityplus_1.19-1.20_1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/na1dL51S/versions/EBBxdCY4/durabilityplus_1.19-1.20_1.0.2.jar"
+hash-format = "sha1"
+hash = "21d402e241c2eeb1b03f92b0a1338e7175a1e321"
+
+[update]
+[update.modrinth]
+mod-id = "na1dL51S"
+version = "EBBxdCY4"
