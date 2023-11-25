@@ -1,5 +1,10 @@
 == Changelog
 
+=== Version 0.5
+
+Added:
+* https://modrinth.com/mod/valkyrien-skies/version/1.19.2-fabric-2.2.0-beta.3[Valkyrien Skies]
+
 === Version 0.4
 
 Added:

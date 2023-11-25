@@ -296,6 +296,11 @@ hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
 metafile = true
 
 [[files]]
+file = "mods/valkyrien-skies.pw.toml"
+hash = "3064a8552e99dc0d5047d33f5174de8b25b7d4b5f265e9e75cb1c7e2478d9324"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "93bf9fd76c36b971803bb4012e835aa8d555ffe00dc01db44b102d5b60010ebc"
 metafile = true

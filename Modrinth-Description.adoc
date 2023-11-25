@@ -16,6 +16,8 @@ Added:
 * https://modrinth.com/plugin/tabtps[TabTPS]
 * https://modrinth.com/mod/travelersbackpack[Traveler's Backpack]
 * https://modrinth.com/datapack/vanilla-refresh[Vanilla Refresh]
+* https://modrinth.com/mod/chunk-loaders[Chunk Loaders]
+* https://modrinth.com/mod/valkyrien-skies/version/1.19.2-fabric-2.2.0-beta.3[Valkyrien Skies]
 
 Removed:
 
