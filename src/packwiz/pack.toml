@@ -1,6 +1,6 @@
 name = "q1cc-create-modpack"
 author = "xicesky"
-version = "0.7-1.19.2"
+version = "0.7.1-1.19.2"
 description = "A multiplayer \"factory building\" experience focused on Create"
 pack-format = "packwiz:1.1.0"
 
