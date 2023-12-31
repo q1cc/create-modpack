@@ -62,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/comforts.pw.toml"
-hash = "e6ad077b2b20ca9bb5a6b371cd5e5c4c77bd8e6613d9a498b23c48bf16ea60c3"
+hash = "fc6240299b8965bfb448bbf6db910679ec525e79d9a40427c4aa20335fa414f1"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/durability-plus.pw.toml"
-hash = "a8cc0a09d6c4e5df9c831b572ce937a0b348d8aa215e76cc2890b0fd8de0b816"
+hash = "a73d0cdff7a07c267e9263eea60dc9ad0e3bda648c2698ddc2c880ef268c37db"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/polymorph.pw.toml"
-hash = "a441c287441f57daa6336ad4606c6530320dd0881deb60efa2447a517fb95cd3"
+hash = "4a362e60bced90553a9eee9717e1a2b7cc3537b1c16e6ca9f423562062a46b68"
 metafile = true
 
 [[files]]
