@@ -1,5 +1,13 @@
 == Changelog
 
+=== Version 0.7
+
+Added:
+* https://modrinth.com/mod/niftycarts[NiftyCarts]
+
+Removed:
+* https://modrinth.com/mod/valkyrien-skies/version/1.19.2-fabric-2.2.0-beta.3[Valkyrien Skies]
+
 === Version 0.6
 
 Added:

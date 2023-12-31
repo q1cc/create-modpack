@@ -226,6 +226,11 @@ hash = "7629f7b9bc1b04f215a4bb9e6739ba03995f12efe8a810151a152ab9f1516866"
 metafile = true
 
 [[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "dde2f8b241a796949a0ad2b3121e7d4ed5ac7da2d976280dcf9194b54bb50a1d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
@@ -293,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "e4e021f4e9647d01496dfd9f4dbf77cf46575318bd54f40aac7d3b4996baecb8"
-metafile = true
-
-[[files]]
-file = "mods/valkyrien-skies.pw.toml"
-hash = "3064a8552e99dc0d5047d33f5174de8b25b7d4b5f265e9e75cb1c7e2478d9324"
 metafile = true
 
 [[files]]

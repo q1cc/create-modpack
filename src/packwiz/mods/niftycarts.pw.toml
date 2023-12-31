@@ -1,0 +1,13 @@
+name = "NiftyCarts"
+filename = "niftycarts-2.1.0+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CXd6g9xp/versions/7K79CFL9/niftycarts-2.1.0%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "616612def4a43f6b90f4a44972ba88781aee188a"
+
+[update]
+[update.modrinth]
+mod-id = "CXd6g9xp"
+version = "7K79CFL9"
