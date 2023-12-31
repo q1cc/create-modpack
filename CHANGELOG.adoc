@@ -1,5 +1,9 @@
 == Changelog
 
+=== Version 0.7.1
+
+Updated fabric loader to 0.15.3
+
 === Version 0.7
 
 Added:
