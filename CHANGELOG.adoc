@@ -1,5 +1,9 @@
 == Changelog
 
+=== Version 0.8.1
+
+Updated create mod to 0.5.1-c
+
 === Version 0.8
 
 Added create jetpack and elytra slot.
