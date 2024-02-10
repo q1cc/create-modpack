@@ -1,5 +1,9 @@
 == Changelog
 
+=== Version 0.8
+
+Added create jetpack and elytra slot.
+
 === Version 0.7.2
 
 Resolved mod and loader version conflicts
